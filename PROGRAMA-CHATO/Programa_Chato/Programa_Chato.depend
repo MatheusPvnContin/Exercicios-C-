@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1746383523 source:c:\users\pichau\onedrive - etec centro paula souza\documents\programas\programa-chato\programa_chato\main.cpp
+	<iostream>
+	<windows.h>
+	<cstring>
+	<iomanip>
+

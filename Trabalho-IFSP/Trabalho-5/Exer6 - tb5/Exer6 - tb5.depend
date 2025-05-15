@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744141856 source:c:\users\pichau\onedrive - etec centro paula souza\documents\programas\trabalho-ifsp\trabalho 5\exer6 - tb5\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+

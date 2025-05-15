@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744117064 source:e:\trabalho-5\att2-tb5\main.cpp
+	<iostream>
+	<iomanip>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745926344 source:e:\vetores e matrizes c++\vetorexemplo 3\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+

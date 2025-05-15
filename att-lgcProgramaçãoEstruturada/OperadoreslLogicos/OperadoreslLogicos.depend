@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742303201 source:c:\users\aluno\downloads\att-lgcprogramaçãoestruturada\operadoresllogicos\main.cpp
+	<iostream>
+	<locale.h>
+

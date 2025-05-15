@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1743503652 source:c:\users\aluno\downloads\switchcase\1°switchcaseex\main.cpp
+	<iostream>
+	<locale.h>
+

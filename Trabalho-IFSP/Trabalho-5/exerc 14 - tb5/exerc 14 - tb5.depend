@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744481922 source:e:\trabalho-5\exerc 14 - tb5\main.cpp
+	<iostream>
+	<iomanip>
+	<locale.h>
+

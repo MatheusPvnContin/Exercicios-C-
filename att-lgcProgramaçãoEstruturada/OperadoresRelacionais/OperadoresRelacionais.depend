@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742304182 source:c:\users\aluno\downloads\att-lgcprogramaçãoestruturada\operadoresrelacionais\main.cpp
+	<iostream>
+	<locale.h>
+

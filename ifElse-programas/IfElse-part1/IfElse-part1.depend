@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742899784 source:c:\users\aluno\downloads\ifelse-programas\ifelse-part1\main.cpp
+	<iostream>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745959211 source:c:\users\pichau\onedrive - etec centro paula souza\desktop\att-praticando\exercicio3 matriz\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+

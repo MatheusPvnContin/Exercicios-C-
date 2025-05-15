@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745926922 source:e:\vetores e matrizes c++\exerciciovetor1\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+

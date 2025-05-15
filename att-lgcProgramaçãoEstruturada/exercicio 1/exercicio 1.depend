@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1742296907 source:c:\users\aluno\downloads\att-lgcprogramaçãoestruturada\exercicio 1\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<locale.h>
+
